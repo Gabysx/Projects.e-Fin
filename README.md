@@ -9,7 +9,7 @@ Cadastro/
 Login/
 Recuperação de Senha /
 Controle de estoque /
-controle do financeiro /
+Controle do financeiro /
 
 Crud - em processo /
 
