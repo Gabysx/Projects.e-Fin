@@ -137,7 +137,7 @@ return (
                 <FontAwesome5 
                 name={'bars'} 
                 size={30}
-                color = '#fff'
+                color = '#333'
                 >
                 </FontAwesome5>
               </Text>
