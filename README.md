@@ -4,14 +4,14 @@ Projeto desenvolvido para Trabalho de Conclusão de Curso da Etec 2019/2020;
 
 Telas :
 
-Splash 
-Cadastro 
-Login
-Recuperação de Senha 
-Controle de estoque 
-controle do financeiro 
+Splash/
+Cadastro/
+Login/
+Recuperação de Senha /
+Controle de estoque /
+controle do financeiro /
 
-Crud - em processo 
+Crud - em processo /
 
 
 
