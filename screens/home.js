@@ -150,7 +150,7 @@ return (
                 <FontAwesome5 
                 name={'sign-out-alt'} 
                 size={30}
-                color = '#333'
+                color = '#fff'
                 >
                 </FontAwesome5>
             </Text>
